@@ -1,5 +1,5 @@
 
-![Peek 2020-07-09 15-53](https://github.com/Alisson-JP/CertificadosSO/blob/43020cffec3653f59fc03221c49df5a319335b53/V%C3%ADdeo%20Painel%20Git/PainelGithub3.gif)
+![Peek 2020-07-09 15-53](https://github.com/Alisson-JP/CertificadosSO/blob/01bfef52eadd2dc5b7c5676d233f042a2ba7dc3a/V%C3%ADdeo%20Painel%20Git/PainelGithub4.gif)
 
 <div align="center">
   <a href="https://github.com/Alisson-JP">
