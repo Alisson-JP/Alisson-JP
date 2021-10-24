@@ -6,6 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alisson-JP&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-JP&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+---
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/Alisson-JP/CertificadosSO/blob/306f3ca328ad63963492781ae13c32d3943e1001/V%C3%ADdeo%20Painel%20Git/gifteste.gif">
+  
+ ---
   
 <div> 
   <a href="https://www.instagram.com/aktanjp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
